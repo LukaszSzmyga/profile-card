@@ -43,7 +43,7 @@ body {
 
 .card footer p {
   font-size: 1.6em;
-  line-height: 1.5em;
+  line-height: 1.5;
   text-align: center;
   padding-top: 0.5em;
 }
